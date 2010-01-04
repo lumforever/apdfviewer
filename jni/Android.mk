@@ -20,8 +20,7 @@ LOCAL_CFLAGS += -DPLATFORM_ANDROID
 
 LOCAL_SHARED_LIBRARIES +=   \
 	libz				\
-	libcorecg			\
-	libsgl				\
+	libskia				\
 	liblog
 
 LOCAL_STATIC_LIBRARIES +=   \
